@@ -1,1 +1,2 @@
 # nimui
+my friends
